@@ -104,7 +104,7 @@ function create_config( )
 		"rmsg",
 
 	},
-    sudo_users = {323046540, 417589898, sudo_id},
+    sudo_users = {189308877, sudo_id},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
